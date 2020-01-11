@@ -1,5 +1,7 @@
 # Web-App-Dashboard
 
+## Find a chart library. We recommend chart.js. When adding your chart library, please use the CDN links, DO NOT install via node/bower for this project. Use the link for the chart.js library here https://cdnjs.com/libraries/Chart.js
+
 ## Create a responsive web page from the supplied dashboard.png mockup with the following:
 
 Header with app name, notification icon badge, and profile avatar and name.
